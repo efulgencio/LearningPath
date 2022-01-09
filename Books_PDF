@@ -1,0 +1,123 @@
+CONTENT_BOOK_PDF
+
+Intermediate iOS 11 Programming Swift
+
+- Buiding Adaptive User Interfaces
+- Adding Sections and Index list in UITableView
+- Animating Table View Cells
+- Working with JSON and Codable in Swift 4
+- How to Integrate the Twitter and Facebook SDK for Social Sharing
+- Working with Email and Attachments
+- Sending SMS and MMS Using MessageUI Framework
+- How to Get Direction and Draw Route on Maps
+- Search Nearby Ponints of Interest Using Local Search
+- Audio Recording and Playback
+- Scan QR Code Using AVFoundation Framework
+- Working with URL Schemes
+- Building a Full Screen Camera with Gesture-based Controls
+- Video Capturing and Playback Using AVKit
+- Displaying Banner Ads using Google AdMob
+- Working with Custom Fonts
+- Working with AirDrop, UIActivivtyViewController and Uniform Type Identificer
+- Building Grid Layouts with Collection Views
+- Interacting with Collection Views
+- Adaptive Collection Views Using Size Classes and UITraitCollection
+- Building a Today Widget Using App Extensions
+- Building Slide Out Sidebar Menus
+- View Controller Transitions and Animations
+- Building A Slider Down Menu
+- Self Sizing Cells and Dynamic Type
+- XML Parsing, RSS and Expandable Table View Cells
+- Applying a Blurred Background Using UIVisualEffect
+- Using Touch ID and Face ID for Authentication
+- Building a Carousel-Like User Interface
+- Working with Parse
+- Parsing CSV and Preloading a SQLite Database Using Core Data
+- Connecting Multiple Annotations with Polylines and Routes
+- Using CocoaPods in Swift Projects
+- Building a Simple Sticker App
+- Building iMessage Apps Using Messages Framework
+- Building Custom UI Components Using IBDesignable and IBInspectable
+- Using Firebase for Authentication
+- Google and Facebook Authentication Using Firebase
+- Using Firebase Database and Storage to Build an Instagram-like App
+- Working with CoreML
+- Building AR Apps with ARKig and SpriteKit
+- Working with 3D Objects in Augmented using ARkit and SceneKit
+
+
+
+Masteringios11programming
+
+
+- UITableView Touch Up
+- A Better Layout with UICollectionView
+- Creating a Contact Details Page
+- Immersing Your User With Animation
+- Improving Your Code with Value Types
+- Making Your Code More Flexible with Protocols and Generics
+- Refactoring the HelloContacts Application
+- Adding Core Data to Your App
+- Storing and Querying Data in Core Data
+- Fetching and Displaying Data from the NetWork
+- Being Proactive with BackExtground Fetch
+- Enriching Apps with the Camera, Motin, and Location
+- Extending World with ARKit
+- Exchanging Data with Drag an Drop
+- Meking Smarter Apps with CoreML
+- Increasing your App's Discoverability with Spotlight and Universal Links
+- Instant Information with a Notification Center Widget
+- Implementing Rich Notifications
+- Extending iMessage
+- Integratins Your App with Siri
+- Ensuring App Quality with Tests
+- Discovering Bottlenecks with Instruments
+- Offloading Tasks with Operations and GCD
+- Wrapping Up the Development Cycle and Submitting to the App Store.
+
+
+masteringswift4
+
+- Taking the first steps with swift
+- Learning about Variables, Constants, Strings and Operators
+- Using Swift Collections and the Tuple type
+- Control Flow and Functions
+- Classes and Structures
+- Using Protocols and Protocols Extensions
+- Protocol-Oriented Design
+- Writing Safer Code with Availability and Error Handling
+- Custom Subscripting
+- Using Optional Types
+- Working with Generics
+- Working with Closures
+- Using Mix and Match
+- Concurrency and Parallelism in Swift
+- Swift Formatting and Style Guide
+- Swift Core Libraries
+- Adopting Design Patterns in Swift
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
