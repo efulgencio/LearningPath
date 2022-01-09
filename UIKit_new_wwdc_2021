@@ -1,0 +1,100 @@
+https://developer.apple.com/videos/play/wwdc2021/10059/
+
+
+ in iOS 15. We refined the appearance of UIToolbar and UITabBar. This updated look removes the background material when scrolled to bottom, giving more visual clarity to your content. In UITabBar, we've enhanced support for SF Symbols, giving great results when using any of your favorite symbols.
+
+ Custom scrollEdgeAppearance
+
+ let appearance = UITabBarAppearance()
+ appearance.backgroundEffect = nil
+ appearance.backgroundColor = .blue
+
+ tabBar.scrollEdgeAppearance = appearance
+
+ Specify the content scrollView
+
+ let scrollView = ....
+ viewController.setContentScrollView(scrollView, for: .bottom)
+
+ New style for list headers
+
+ .plain, .grouped, .promimentInsetGrouped, .extraProminentInsetGrouped
+
+ Half height sheets (viewcontroller presentation)
+
+ UIDatePicker (new user the input for change date)
+
+ UIButton API (plain, gray, tinted, Filled, Multiple Lines)
+ UIMenu (additions to buttons)
+ 		Pull-down : present a number of options to select
+ 		Pop-up: select option and present like label
+
+
+ var config = UIButton.Configuration.tinted()
+ config.title = "Add to Cart"
+ config.image = UIImage(systemName: "cart.badge.plus")
+ config.imagePlacement = .trailing
+ config.buttonSize = .large
+ config.cornerStyle = .capsule
+ self.addToCartButton = UIButton(configuration: config)
+
+ About button see (Meet the UIKit button system WWDC21)
+
+ New UI for UIMenu submenus (they appear when you tap on any item)
+
+ SF Symbol enhancements (monochrome, hierarchical, palette, multicolor)
+
+ // Using a hierarchical color symbol
+
+ let configuration = UIImage.SymbolConfiguration(
+ 		hierarchicalColor: UIColor.systemOrange
+ )
+
+ let image = UIImage (
+ 	systemName: "sun.max.circle.fill",
+ 	withConfiguration: configuration
+ )
+
+ Cell configuration closures
+
+ UICollectionView and UITableView
+ React to changes in cell state
+ Subclassing no longer necessary
+
+ let cell: UICollectionViewCell = ...
+
+ cell.configurationUpdateHandler = { cell, state in
+ 	var content = UIListContentConfiguration.cell().updated(for: state)
+ 	content.text = "Hello"
+ 	if state.isDisabled {
+ 		content.textProperties.color = .systemGray
+ 	}
+ 	cell.contentConfiguration = content
+ }
+
+
+Diffable data source improvements
+
+Apply snapshots without animation
+New API to reconfigure items
+
+var snapshot = dataSource.snapshot()
+snapshot.reconfigureItems(itemIdentifiers)
+dataSource.apply(snapshot, animatingDifferences: false)
+
+Atentin: see Make blazing fast lists and collection view WWDC21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
