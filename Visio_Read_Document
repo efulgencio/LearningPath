@@ -1,0 +1,26 @@
+Extract document data using Vision
+
+VNRecognizedTextRequest
+
+textRecognitionRequest.supportedRecognitionLanguages()
+VNDetectDocumentSegmentationRequest 
+	(Machine Learning based Detector) Notes, receipts, labels
+	Provides segmentation mask adn corner points
+	Realtime on devices with a Neural Engine 
+	Used in VNDocumentCamera
+
+
+More videos about visio: Explore Computer visio APIs
+Text Recognition in Visio Framework 2019
+
+
+// In the folder swift/visio is the sample
+For more information about this sample code project, see WWDC 2019 Session 234: Text Recognition in Vision Framework.
+
+VNRecognizeTextRequest
+VNDocumentCameraViewControllerDelegate
+NSDataDetector
+
+
+Sample wwdc 2021 Tailor the VoiceOver experience in your data-rich apps
+For read content cell with voiceover
