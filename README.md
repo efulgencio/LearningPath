@@ -1,6 +1,6 @@
 # LearningPath
 
-Text attributes _italic_, **bold**, `monospace`.
+Text attributes _letra en italica_, **bold**, `monospace`.
 
 Horizontal rule:
 ---
