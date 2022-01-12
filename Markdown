@@ -1,4 +1,17 @@
 
+Text attributes _letra en italica_, **bold**, `monospace`.
+
+Horizontal rule:
+---
+
+Heading
+=======
+
+Sub-heading
+-----------
+
+# Alternative heading #
+
 Bullet lists nested within numbered list:
 
   1. fruits
