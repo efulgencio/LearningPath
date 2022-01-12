@@ -22,7 +22,7 @@ Bullet lists nested within numbered list:
      - carrot
      - broccoli
 
-A [link](http://example.com).
+A [Este es un enlace](http://example.com).
 
 ![Image](Icon-pictures.png "icon")
 
