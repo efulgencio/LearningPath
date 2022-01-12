@@ -1,17 +1,5 @@
 # LearningPath
 
-Text attributes _letra en italica_, **bold**, `monospace`.
-
-Horizontal rule:
----
-
-Heading
-=======
-
-Sub-heading
------------
-
-# Alternative heading #
 
 About what I am learning last weeks
 
