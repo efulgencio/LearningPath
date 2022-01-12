@@ -20,10 +20,9 @@ MVVM with Combine Tutorial for iOS
 Copy from old mac directory download is proyecto with MVVM
 
 // About firebase
-// Directory swift/Firebase
+#// Directory swift/Firebase#
 Firebase Tutorial: Getting Started
 Firebase Dynamic Links: Getting Started
-
 
 // About notifications 
 // In directory Swift/Mapss_Notifications is the proyect about UNLocationNotificationTrigger
