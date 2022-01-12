@@ -1,5 +1,11 @@
 # LearningPath
 
+Text attributes _italic_, **bold**, `monospace`.
+
+Horizontal rule:
+
+---
+
 Heading
 =======
 
