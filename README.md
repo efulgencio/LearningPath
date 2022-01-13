@@ -22,12 +22,14 @@ Getting Started with the VIPER Architecture Pattern
 MVVM with Combine Tutorial for iOS
 Copy from old mac directory download is proyecto with MVVM
 
-// About firebase
+**About firebase**
+
 // Directory swift/Firebase
 Firebase Tutorial: Getting Started
 Firebase Dynamic Links: Getting Started
 
-// About notifications 
+**About notifications**
+
 // In directory Swift/Mapss_Notifications is the proyect about UNLocationNotificationTrigger
 Location Notifications with UNLocationNotificationTrigger
 MapKit Tutorial: Overlay Views
@@ -38,50 +40,74 @@ Indoor Maps on iOS: Advanced MapKit
 Push Notifications Tutorial: Getting Started
 Push Notifications Tutorial for iOS: Rich Push Notifications
 
+**About AWS**
 
-// About AWS 
 Getting Started with AWS AppSync for iOS
 Using AWS as a Back End: Authentication & API (required analytics for ejecect do this sample old mac)
 Using AWS as a Back End: The Data Store API
 
 
-// Not folder at swift directory yet
+**// Not folder at swift directory yet**
+
 Getting Started With Widgets
 Chapter 17 mastering ios 11 
 The actual xcode Today  Extension deprecated use Widget Extension is in SwiftUI
 
+**Core NFC**
+
 Getting Started with Core NFC
 Sample at directory swift/NFC need hardware with NFC for test sample
 
+**Instruments**
 
 Instruments Tutorial with Swift: Getting Started
-Getting Started With the Swift Collections Package
+
+**OAuth with ASWebAuthenticationSession**
+
 Implementing OAuth with ASWebAuthenticationSession
 
 
+**Swift Package Manager**
+
 // Important
 Swift Package Manager for iOS
+Getting Started With the Swift Collections Package
 
 // Important
+**OOP Swift 5.1**
 Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started
 
+**SQLite **
 
 SQLite With Swift Tutorial: Getting Started
 
+**iOs Animation**
+
 iOS Animation Tutorial: Getting Started
+
+**CloudKit**
 
 CloudKit Tutorial: Getting Started
 
 // Interesting
+**Generics**
+
 Swift Generics Tutorial: Getting Started
+
+**Cool 3D Sidebar**
 
 // For menu app is good
 // directory swift/menu_app
 Create a Cool 3D Sidebar Menu Animation
 
 
+**TDD**
+
 // TDD
 https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
+
+
+**CORE DATA**
 
 // CORE DATA
 https://www.raywenderlich.com/books/core-data-by-tutorials
@@ -90,20 +116,16 @@ https://www.raywenderlich.com/books/core-data-by-tutorials (tutorial CORE DATA)
 book: masteringios11programming.pdf chapter 8, 9 is about CORE DATA
 Set Up Core Spotlight with Core Data: Getting Started
 
+**VIDEO STREAMING**
 
 Video Streaming Tutorial for iOS: Getting Started
 
-
+**CollectionView**
 
 // CollectionView
 // Folder swift/AdvancedUICollectionView
 UICollectionView Tutorial: Headers, Selection and Reordering
 	TestiOs
-Clave:
-c66d009cb7c86b035bc2d5b9112a8c1a
-
-Secreto:
-2de01996198c7d7f
 
 UICollectionView Tutorial: Getting Started
 
