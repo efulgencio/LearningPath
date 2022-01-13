@@ -109,7 +109,6 @@ https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-gett
 
 **CORE DATA**
 
-// CORE DATA
 https://www.raywenderlich.com/books/core-data-by-tutorials
 
 Getting Started with Core Data and CloudKit
@@ -190,8 +189,6 @@ UIPresentationController Tutorial: Getting Started
 UIStackView Tutorial for iOs: Introducing Stack Views
 
 Continuous Integration With GitHub, Fastlane & jenkins
-
-/*************************************************************************************************/
 
 
 
