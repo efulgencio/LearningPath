@@ -24,21 +24,26 @@ Copy from old mac directory download is proyecto with MVVM
 
 **About firebase**
 
-// Directory swift/Firebase
 Firebase Tutorial: Getting Started
 Firebase Dynamic Links: Getting Started
 
 **About notifications**
 
 // In directory Swift/Mapss_Notifications is the proyect about UNLocationNotificationTrigger
+
 Location Notifications with UNLocationNotificationTrigger
-MapKit Tutorial: Overlay Views
-Geofencing with Core Location: Getting Started
-Indoor Maps on iOS: Advanced MapKit
 
 // In directory swift/notification  
 Push Notifications Tutorial: Getting Started
 Push Notifications Tutorial for iOS: Rich Push Notifications
+
+**MAPS**
+
+ MapKit Tutorial: Overlay Views
+
+Geofencing with Core Location: Getting Started
+
+Indoor Maps on iOS: Advanced MapKit
 
 **About AWS**
 
