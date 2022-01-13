@@ -5,9 +5,7 @@ All found at:
 
 **https://www.raywenderlich.com/ios/articles**
 
-
-
-About what I am learning last weeks
+About what I am learning last weeks (2021-12-22)
 
 iOS Unit Testing and UI Testing Tutorial
 Folder swift/testing is the code
@@ -131,7 +129,9 @@ UICollectionView Tutorial: Headers, Selection and Reordering
 
 UICollectionView Tutorial: Getting Started
 
-**PENDING VIEW**
+
+
+**PENDING VIEW FOR STUDY**
 
 NEWS THEMES THAT I SAW 
 
