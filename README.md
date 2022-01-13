@@ -59,11 +59,9 @@ Using AWS as a Back End: Authentication & API (required analytics for ejecect do
 Using AWS as a Back End: The Data Store API
 
 
-**// Not folder at swift directory yet**
+**Widgets**
 
 Getting Started With Widgets
-Chapter 17 mastering ios 11 
-The actual xcode Today  Extension deprecated use Widget Extension is in SwiftUI
 
 **Core NFC**
 
