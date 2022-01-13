@@ -23,8 +23,6 @@ Getting Started with the VIPER Architecture Pattern
 
 MVVM with Combine Tutorial for iOS
 
-Copy from old mac directory download is proyecto with MVVM
-
 **About firebase**
 
 Firebase Tutorial: Getting Started
