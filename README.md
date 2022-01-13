@@ -18,8 +18,11 @@ Folder swift/SOLID have the project about this url raywenderlich
 Important to do SOLID must be clear. (here it explains well about solid)
 
 Folder swift/Viper_wireFrame and Viper_router good example for do
+
 Getting Started with the VIPER Architecture Pattern
+
 MVVM with Combine Tutorial for iOS
+
 Copy from old mac directory download is proyecto with MVVM
 
 **About firebase**
@@ -29,12 +32,10 @@ Firebase Dynamic Links: Getting Started
 
 **About notifications**
 
-// In directory Swift/Mapss_Notifications is the proyect about UNLocationNotificationTrigger
-
 Location Notifications with UNLocationNotificationTrigger
 
-// In directory swift/notification  
 Push Notifications Tutorial: Getting Started
+
 Push Notifications Tutorial for iOS: Rich Push Notifications
 
 **MAPS**
@@ -48,7 +49,9 @@ Indoor Maps on iOS: Advanced MapKit
 **About AWS**
 
 Getting Started with AWS AppSync for iOS
+
 Using AWS as a Back End: Authentication & API (required analytics for ejecect do this sample old mac)
+
 Using AWS as a Back End: The Data Store API
 
 
@@ -61,7 +64,6 @@ The actual xcode Today  Extension deprecated use Widget Extension is in SwiftUI
 **Core NFC**
 
 Getting Started with Core NFC
-Sample at directory swift/NFC need hardware with NFC for test sample
 
 **Instruments**
 
@@ -71,15 +73,14 @@ Instruments Tutorial with Swift: Getting Started
 
 Implementing OAuth with ASWebAuthenticationSession
 
-
 **Swift Package Manager**
 
-// Important
 Swift Package Manager for iOS
+
 Getting Started With the Swift Collections Package
 
-// Important
 **OOP Swift 5.1**
+
 Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started
 
 **SQLite **
@@ -94,31 +95,29 @@ iOS Animation Tutorial: Getting Started
 
 CloudKit Tutorial: Getting Started
 
-// Interesting
 **Generics**
 
 Swift Generics Tutorial: Getting Started
 
 **Cool 3D Sidebar**
 
-// For menu app is good
-// directory swift/menu_app
 Create a Cool 3D Sidebar Menu Animation
-
 
 **TDD**
 
-// TDD
 https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
-
 
 **CORE DATA**
 
 // CORE DATA
 https://www.raywenderlich.com/books/core-data-by-tutorials
+
 Getting Started with Core Data and CloudKit
+
 https://www.raywenderlich.com/books/core-data-by-tutorials (tutorial CORE DATA)
+
 book: masteringios11programming.pdf chapter 8, 9 is about CORE DATA
+
 Set Up Core Spotlight with Core Data: Getting Started
 
 **VIDEO STREAMING**
@@ -127,46 +126,69 @@ Video Streaming Tutorial for iOS: Getting Started
 
 **CollectionView**
 
-// CollectionView
-// Folder swift/AdvancedUICollectionView
 UICollectionView Tutorial: Headers, Selection and Reordering
-	TestiOs
 
 UICollectionView Tutorial: Getting Started
+
+**PENDING VIEW**
 
 NEWS THEMES THAT I SAW 
 
 UIButton Configuration Tutorial: Getting Started
+
 Monitoring HTTP Traffic with Instruments
 
+
 Spinner and Progress Bar in Swift: Getting Started
+
 Getting Started With the Swift Collections Package
+
 Using Proxyman to Inspect Network Traffic
+
 Self-Sizing Table View Cells
+
 Video Streaming Tutorial for iOS: Getting Started
+
 Firebase Tutorial: Getting Started
 
 Monitoring for iOS with MetricKit: Getting Started
+
 Firebase Cloud Messaging for iOS: Push Notifications
+
 Custom Thumbnails and Previews with Quick Look on iOS
+
 Firebase Analytics: Getting Started
+
 Creating a Framework for iOS
 
-
 GraphQL Using the Apollo Framework: Getting Started
+
 CALayer Tutorial for iOs: Getting Started
+
 QuickLook Previews for iOs: Getting Started
+
 Getting Started With Widgets
+
 Building a Custom Collection With Protocols in Swift
+
 Advanced MapKit Tutorial: Custom MapKit Tites
+
 MapKit Tutorial: Overlay Views
+
 Improving Storyboard Segues With IBSegueAction
+
 iOs Accessibilitity: Getting Started
+
 UIScrollView Tutorial: Getting Started
+
 Modern Collection Views With Compositional Layouts
+
 iOs Animation Tutorial: Getting Started
+
 UIPresentationController Tutorial: Getting Started
-UIStackView Tutorial for iOs: Introducing Stack Views.
+
+UIStackView Tutorial for iOs: Introducing Stack Views
+
 Continuous Integration With GitHub, Fastlane & jenkins
 
 /*************************************************************************************************/
