@@ -48,3 +48,12 @@ Most inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
 - Elemento de la lista 1
 - Elemento de la lista 2
 - Elemento de la lista 3
+
+
+Esto es `código`.
+
+[ ] A
+[x] B
+[ ] C
+
+``Todo esto es `código`.``
