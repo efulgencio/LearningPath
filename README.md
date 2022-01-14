@@ -71,7 +71,7 @@ Getting Started With the Swift Collections Package
 
 Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started
 
-**SQLite **
+**SQLite**
 
 SQLite With Swift Tutorial: Getting Started
 
