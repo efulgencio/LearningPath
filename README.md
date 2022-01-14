@@ -4,7 +4,7 @@
 
 About what I am learning last weeks (2021-12-22)
 
-> SOLID  
+> **SOLID**  
 
 SOLID Principles for iOS Apps.
 
