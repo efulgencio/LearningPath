@@ -118,6 +118,7 @@ iOS Unit Testing and UI Testing Tutorial
 
 <h2>PENDING CONTENT FOR STUDY OR REVIEW</h2>
 
+Resolver for iOS Dependency Injection: Getting Started
 
 UIButton Configuration Tutorial: Getting Started
 
