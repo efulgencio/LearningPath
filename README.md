@@ -8,17 +8,17 @@ About what I am learning last weeks (2021-12-22)
 
 SOLID Principles for iOS Apps.
 
-**VIPER / MVVM**
+> **VIPER / MVVM**
 
 Getting Started with the VIPER Architecture Pattern
 MVVM with Combine Tutorial for iOS
 
-**About firebase**
+> **About firebase**
 
 Firebase Tutorial: Getting Started
 Firebase Dynamic Links: Getting Started
 
-**About notifications**
+> **About notifications**
 
 Location Notifications with UNLocationNotificationTrigger
 
@@ -26,15 +26,15 @@ Push Notifications Tutorial: Getting Started
 
 Push Notifications Tutorial for iOS: Rich Push Notifications
 
-**MAPS**
+> **MAPS**
 
- MapKit Tutorial: Overlay Views
+MapKit Tutorial: Overlay Views
 
 Geofencing with Core Location: Getting Started
 
 Indoor Maps on iOS: Advanced MapKit
 
-**About AWS**
+> **About AWS**
 
 Getting Started with AWS AppSync for iOS
 
@@ -42,73 +42,73 @@ Using AWS as a Back End: Authentication & API (required analytics for ejecect do
 
 Using AWS as a Back End: The Data Store API
 
-**Widgets**
+> **Widgets**
 
 Getting Started With Widgets
 
-**Core NFC**
+> **Core NFC**
 
 Getting Started with Core NFC
 
-**Instruments**
+> **Instruments**
 
 Instruments Tutorial with Swift: Getting Started
 
-**OAuth with ASWebAuthenticationSession**
+> **OAuth with ASWebAuthenticationSession**
 
 Implementing OAuth with ASWebAuthenticationSession
 
-**Swift Package Manager**
+> **Swift Package Manager**
 
 Swift Package Manager for iOS
 
 Getting Started With the Swift Collections Package
 
-**OOP Swift 5.1**
+> **OOP Swift 5.1**
 
 Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started
 
-**SQLite**
+> **SQLite**
 
 SQLite With Swift Tutorial: Getting Started
 
-**iOs Animation**
+> **iOs Animation**
 
 iOS Animation Tutorial: Getting Started
 
-**CloudKit**
+> **CloudKit**
 
 CloudKit Tutorial: Getting Started
 
-**Generics**
+> **Generics**
 
 Swift Generics Tutorial: Getting Started
 
-**Cool 3D Sidebar**
+> **Cool 3D Sidebar**
 
 Create a Cool 3D Sidebar Menu Animation
 
-**TDD**
+> **TDD**
 
 Test Driven Development Tutorial for iOS: Getting Started
 
-**CORE DATA**
+> **CORE DATA**
 
 Getting Started with Core Data and CloudKit
 
 Set Up Core Spotlight with Core Data: Getting Started
 
-**VIDEO STREAMING**
+> **VIDEO STREAMING**
 
 Video Streaming Tutorial for iOS: Getting Started
 
-**CollectionView**
+> **CollectionView**
 
 UICollectionView Tutorial: Headers, Selection and Reordering
 
 UICollectionView Tutorial: Getting Started
 
-**Testing**
+> **Testing**
 
 iOS Unit Testing and UI Testing Tutorial
 
