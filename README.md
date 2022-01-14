@@ -135,6 +135,9 @@ iOS Unit Testing and UI Testing Tutorial
 
 **PENDING VIEW FOR STUDY**
 
+Horizontal rule:
+---
+
 NEWS THEMES THAT I SAW 
 
 UIButton Configuration Tutorial: Getting Started
