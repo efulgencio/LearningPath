@@ -5,27 +5,15 @@ All found at:
 
 [In this link I get all contents: raywnderlinch.com](https://www.raywenderlich.com/ios/articles)
 
-
 About what I am learning last weeks (2021-12-22)
-
-iOS Unit Testing and UI Testing Tutorial
-Folder swift/testing is the code
-book masteringios11programming 
-Chapter 21: Ensuring App Quality with Tests 
-talk about test
-XCode comes with built-in testing tools. These tools allow you to write tests so you can make sure that all of the business 
-login for your app work as expected.
-
-Folder swift/SOLID have the project about this url raywenderlich
 
 **SOLID Principles for iOS Apps**
 
-Important to do SOLID must be clear. (here it explains well about solid)
+Important to do SOLID must be clear.
 
-Folder swift/Viper_wireFrame and Viper_router good example for do
+**VIPER / MVVM**
 
 Getting Started with the VIPER Architecture Pattern
-
 MVVM with Combine Tutorial for iOS
 
 **About firebase**
@@ -56,7 +44,6 @@ Getting Started with AWS AppSync for iOS
 Using AWS as a Back End: Authentication & API (required analytics for ejecect do this sample old mac)
 
 Using AWS as a Back End: The Data Store API
-
 
 **Widgets**
 
@@ -106,17 +93,11 @@ Create a Cool 3D Sidebar Menu Animation
 
 **TDD**
 
-https://www.raywenderlich.com/5522-test-driven-development-tutorial-for-ios-getting-started
+Test Driven Development Tutorial for iOS: Getting Started
 
 **CORE DATA**
 
-https://www.raywenderlich.com/books/core-data-by-tutorials
-
 Getting Started with Core Data and CloudKit
-
-https://www.raywenderlich.com/books/core-data-by-tutorials (tutorial CORE DATA)
-
-book: masteringios11programming.pdf chapter 8, 9 is about CORE DATA
 
 Set Up Core Spotlight with Core Data: Getting Started
 
@@ -134,7 +115,8 @@ UICollectionView Tutorial: Getting Started
 
 iOS Unit Testing and UI Testing Tutorial
 
-<h1>PENDING CONTENT FOR STUDY OR REVIEW</h1>
+
+<h2>PENDING CONTENT FOR STUDY OR REVIEW</h2>
 
 **NEWS THEMES THAT I SAW** 
 
