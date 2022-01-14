@@ -133,9 +133,8 @@ UICollectionView Tutorial: Getting Started
 
 iOS Unit Testing and UI Testing Tutorial
 
-**PENDING VIEW FOR STUDY**
+<h1>**PENDING VIEW FOR STUDY**</h1>
 
-Horizontal rule:
 ---
 
 NEWS THEMES THAT I SAW 
