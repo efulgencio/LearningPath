@@ -135,7 +135,7 @@ iOS Unit Testing and UI Testing Tutorial
 
 <h1>PENDING CONTENT FOR STUDY OR REVIEW</h1>
 
-NEWS THEMES THAT I SAW 
+**NEWS THEMES THAT I SAW** 
 
 UIButton Configuration Tutorial: Getting Started
 
