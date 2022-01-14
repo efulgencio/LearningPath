@@ -4,9 +4,9 @@
 
 About what I am learning last weeks (2021-12-22)
 
-**SOLID Principles for iOS Apps**
+**SOLID**
 
-Important to do SOLID must be clear.
+SOLID Principles for iOS Apps.
 
 **VIPER / MVVM**
 
