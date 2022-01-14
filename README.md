@@ -133,16 +133,13 @@ UICollectionView Tutorial: Getting Started
 
 iOS Unit Testing and UI Testing Tutorial
 
-<h1>**PENDING VIEW FOR STUDY**</h1>
-
----
+<h1>PENDING CONTENT FOR STUDY OR REVIEW</h1>
 
 NEWS THEMES THAT I SAW 
 
 UIButton Configuration Tutorial: Getting Started
 
 Monitoring HTTP Traffic with Instruments
-
 
 Spinner and Progress Bar in Swift: Getting Started
 
@@ -196,6 +193,7 @@ UIStackView Tutorial for iOs: Introducing Stack Views
 
 Continuous Integration With GitHub, Fastlane & jenkins
 
+---
 
 
 
