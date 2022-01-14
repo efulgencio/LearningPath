@@ -39,3 +39,12 @@ Most inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
 #### Título 4
 ##### Título 5
 ###### Título 6
+
+
+1. Elemento de la lista 1
+2. Elemento de la lista 2
+3. Elemento de la lista 3
+
+- Elemento de la lista 1
+- Elemento de la lista 2
+- Elemento de la lista 3
