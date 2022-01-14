@@ -116,9 +116,11 @@ UICollectionView Tutorial: Getting Started
 iOS Unit Testing and UI Testing Tutorial
 
 
+
+---
+
 <h2>PENDING CONTENT FOR STUDY OR REVIEW</h2>
 
-**NEWS THEMES THAT I SAW** 
 
 UIButton Configuration Tutorial: Getting Started
 
