@@ -122,6 +122,8 @@ iOS Unit Testing and UI Testing Tutorial
 
 Good Example: https://cocoacasts.com/dependency-injection-in-swift
 
+https://www.appypie.com/dependency-injection-swift
+
 Resolver for iOS Dependency Injection: Getting Started
 
 Dependency Injection Tutorial for iOS: Getting Started
