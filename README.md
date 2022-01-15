@@ -44,7 +44,7 @@ Indoor Maps on iOS: Advanced MapKit
 
 Getting Started with AWS AppSync for iOS
 
-Using AWS as a Back End: Authentication & API (required analytics for ejecect do this sample old mac)
+Using AWS as a Back End: Authentication & API
 
 Using AWS as a Back End: The Data Store API
 
