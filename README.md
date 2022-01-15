@@ -112,13 +112,15 @@ UICollectionView Tutorial: Getting Started
 
 iOS Unit Testing and UI Testing Tutorial
 
+> **Dependency Injection**
+
+Resolver for iOS Dependency Injection: Getting Started
+Dependency Injection Tutorial for iOS: Getting Started
 
 
 ---
 
 <h2>PENDING CONTENT FOR STUDY OR REVIEW</h2>
-
-Resolver for iOS Dependency Injection: Getting Started
 
 UIButton Configuration Tutorial: Getting Started
 
