@@ -11,12 +11,18 @@ SOLID Principles for iOS Apps.
 > **VIPER / MVVM**
 
 Getting Started with the VIPER Architecture Pattern
+
 MVVM with Combine Tutorial for iOS
 
 > **About firebase**
 
 Firebase Tutorial: Getting Started
+
 Firebase Dynamic Links: Getting Started
+
+Firebase Cloud Messaging for iOS: Push Notifications
+
+Firebase Analytics: Getting Started
 
 > **About notifications**
 
@@ -122,63 +128,62 @@ Dependency Injection Tutorial for iOS: Getting Started
 
 MVVM with Combine Tutorial for iOS
 
+> **UI**
+
+UIButton Configuration Tutorial: Getting Started
+
+Spinner and Progress Bar in Swift: Getting Started
+
+Self-Sizing Table View Cells
+
+CALayer Tutorial for iOs: Getting Started
+
+Building a Custom Collection With Protocols in Swift
+
+UIScrollView Tutorial: Getting Started
+
+UIStackView Tutorial for iOs: Introducing Stack Views
+
+iOs Animation Tutorial: Getting Started
+
+Improving Storyboard Segues With IBSegueAction
+
 ---
 
 <h2>PENDING CONTENT FOR STUDY OR REVIEW</h2>
 
-UIButton Configuration Tutorial: Getting Started
-
 Monitoring HTTP Traffic with Instruments
-
-Spinner and Progress Bar in Swift: Getting Started
 
 Getting Started With the Swift Collections Package
 
 Using Proxyman to Inspect Network Traffic
 
-Self-Sizing Table View Cells
-
 Video Streaming Tutorial for iOS: Getting Started
-
-Firebase Tutorial: Getting Started
 
 Monitoring for iOS with MetricKit: Getting Started
 
-Firebase Cloud Messaging for iOS: Push Notifications
-
 Custom Thumbnails and Previews with Quick Look on iOS
-
-Firebase Analytics: Getting Started
 
 Creating a Framework for iOS
 
 GraphQL Using the Apollo Framework: Getting Started
 
-CALayer Tutorial for iOs: Getting Started
-
 QuickLook Previews for iOs: Getting Started
 
 Getting Started With Widgets
 
-Building a Custom Collection With Protocols in Swift
-
 Advanced MapKit Tutorial: Custom MapKit Tites
-
-MapKit Tutorial: Overlay Views
-
-Improving Storyboard Segues With IBSegueAction
 
 iOs Accessibilitity: Getting Started
 
-UIScrollView Tutorial: Getting Started
 
 Modern Collection Views With Compositional Layouts
 
-iOs Animation Tutorial: Getting Started
+
 
 UIPresentationController Tutorial: Getting Started
 
-UIStackView Tutorial for iOs: Introducing Stack Views
+
 
 Continuous Integration With GitHub, Fastlane & jenkins
 
