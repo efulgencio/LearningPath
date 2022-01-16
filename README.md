@@ -166,6 +166,14 @@ SiriKit Tutorial for iOS
 
 ShazamKit Tutorial for iOS: Getting Started
 
+**ARC and memory management**
+
+ARC and Memory Management in Swift
+
+Monitoring for iOS with MetricKit: Getting Started
+
+
+
 ---
 
 <h2>PENDING CONTENT FOR STUDY OR REVIEW</h2>
