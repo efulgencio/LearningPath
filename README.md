@@ -130,6 +130,8 @@ Resolver for iOS Dependency Injection: Getting Started
 
 Dependency Injection Tutorial for iOS: Getting Started
 
+Video: https://www.youtube.com/watch?v=-ssAWP2rHp4 (simple explication)
+
 > **Combine**
 
 MVVM with Combine Tutorial for iOS
