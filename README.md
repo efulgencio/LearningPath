@@ -106,6 +106,8 @@ Getting Started with Core Data and CloudKit
 
 Set Up Core Spotlight with Core Data: Getting Started
 
+Modern, Efficient Core Data
+
 > **VIDEO STREAMING**
 
 Video Streaming Tutorial for iOS: Getting Started
@@ -172,7 +174,9 @@ ARC and Memory Management in Swift
 
 Monitoring for iOS with MetricKit: Getting Started
 
+**ARKit**
 
+Apple Augmented Reality by Tutorials: Complete Book Now Available!
 
 ---
 
