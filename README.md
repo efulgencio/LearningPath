@@ -40,6 +40,8 @@ Geofencing with Core Location: Getting Started
 
 Indoor Maps on iOS: Advanced MapKit
 
+Advanced MapKit Tutorial: Custom MapKit Tites
+
 > **About AWS**
 
 Getting Started with AWS AppSync for iOS
@@ -180,7 +182,6 @@ QuickLook Previews for iOs: Getting Started
 
 Getting Started With Widgets
 
-Advanced MapKit Tutorial: Custom MapKit Tites
 
 iOs Accessibilitity: Getting Started
 
