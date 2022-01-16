@@ -178,6 +178,10 @@ Monitoring for iOS with MetricKit: Getting Started
 
 Apple Augmented Reality by Tutorials: Complete Book Now Available!
 
+**XCode Server**
+
+Xcode Server for iOS: Getting Started
+
 ---
 
 <h2>PENDING CONTENT FOR STUDY OR REVIEW</h2>
