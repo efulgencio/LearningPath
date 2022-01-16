@@ -158,6 +158,14 @@ iOs Animation Tutorial: Getting Started
 
 Improving Storyboard Segues With IBSegueAction
 
+**Siri**
+
+SiriKit Tutorial for iOS
+
+**ShazamKit**
+
+ShazamKit Tutorial for iOS: Getting Started
+
 ---
 
 <h2>PENDING CONTENT FOR STUDY OR REVIEW</h2>
