@@ -182,6 +182,10 @@ Apple Augmented Reality by Tutorials: Complete Book Now Available!
 
 Xcode Server for iOS: Getting Started
 
+**What about swift 5.5.**
+
+https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5
+
 ---
 
 <h2>PENDING CONTENT FOR STUDY OR REVIEW</h2>
