@@ -8,5 +8,9 @@ This author also: http://iosbrain.com/blog/2018/03/07/concurrency-in-ios-serial-
 
 
 https://www.appcoda.com/animal-recognition-vision-framework/
-In this tutorial, we’ll be building Snapcat, the Snapchat for Cats. Using Vision’s new animal detector, we’ll be able to detect cats, place the human filter on them, and take pictures of them. After taking pictures of our cats, we’ll want to scan their business cards. Using a brand new framework, VisionKit, we’ll be able to scan their business cards just like the default Notes app on iOS.
+In this tutorial, we’ll be building Snapcat, the Snapchat for Cats. Using Vision’s new animal detector,
+we’ll be able to detect cats, 
+place the human filter on them, and take pictures of them. 
+After taking pictures of our cats, we’ll want to scan their business cards. Using a brand new framework,
++VisionKit, we’ll be able to scan their business cards just like the default Notes app on iOS.
 
