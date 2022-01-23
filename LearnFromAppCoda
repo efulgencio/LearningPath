@@ -14,3 +14,20 @@ place the human filter on them, and take pictures of them.
 After taking pictures of our cats, we’ll want to scan their business cards. Using a brand new framework,
 +VisionKit, we’ll be able to scan their business cards just like the default Notes app on iOS.
 
+
+
+https://www.appcoda.com/network-framework/
+Hello folks and welcome! Beyond any doubt, all apps that exchange data with servers need to know one thing 
+all the time: Whether they are connected to Internet or not.
+When being offline, it’s usually desirable to alter the user experience and update the user interface
+in order to reflect the incapability of the app to perform network-based operations.
+
+
+
+https://www.appcoda.com/interactive-animation-uiviewpropertyanimator/
+
+Animations are cool. They are an important part of iOS Human Interface Guidelines. 
+Animations help you to draw user’s attention to important things or just add some fun to your app.
+
+
+
