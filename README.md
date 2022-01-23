@@ -62,6 +62,8 @@ Getting Started with Core NFC
 
 Instruments Tutorial with Swift: Getting Started
 
+Monitoring HTTP Traffic with Instruments
+
 > **OAuth with ASWebAuthenticationSession**
 
 Implementing OAuth with ASWebAuthenticationSession
