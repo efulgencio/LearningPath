@@ -1,0 +1,290 @@
+Readme
+=========
+
+######Format:
+
+Target Schema | Rel
+
+
+
+#ACM views
+They following views are ACM exclusive as come wrapped in an [acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack)
+
+##ACM Menu
+
+###iOS classes: NextStepsVC | NextStepsDM
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/action/collection](http://schemas.isis-papyrus.com/agnostic/action/collection)) | get-possible-next-steps
+
+![](Screenshots/iPhone/AgnosticActionCollection/get-possible-next-steps.png)
+
+---
+
+##Image Creator View
+
+###iOS classes: ImageCreatorVC | ImageCreatorDM
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([image/creator](http://schemas.isis-papyrus.com/image/creator)) | input-image
+
+
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/image/collection](http://schemas.isis-papyrus.com/agnostic/image/collection)) | upload-images
+
+![](Screenshots/iPhone/ImageCreator/input-image.png)
+
+---
+
+##Message View
+
+###iOS classes: MessageVC | MessageDM
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/message/collection](http://schemas.isis-papyrus.com/agnostic/message/collection)) | message
+
+![](Screenshots/iPhone/AgnosticMessageCollection/message.png)
+
+---
+
+#Grid View
+
+###iOS classes: GridImagePickerVC | GridImagePickerDM
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/grid](http://schemas.isis-papyrus.com/agnostic/grid)) | grid
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/grid](http://schemas.isis-papyrus.com/agnostic/grid)) | upload-grid-images
+
+![](Screenshots/iPhone/AgnosticGrid/grid.png)
+
+---
+
+##Form View
+
+A form may contain different kinds of attributes and is up to the platform to decide which one is the most suitable representation depending on the data type and edit mode of the attribute.
+
+For instance geographical coordinate attribute may be displayed using a map in the cell (like in home claims), an integer or float can be displayed using an stepper to increase decrease the value, a date or a string may be displayed as a picker or a single line field depending on the attribute edit mode. 
+
+###iOS classes: ObjectEditorVC | ObjectEditorDM
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/form](http://schemas.isis-papyrus.com/agnostic/form)) | autosave-form
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/form](http://schemas.isis-papyrus.com/agnostic/form)) | document-builder
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack)([agnostic/form](http://schemas.isis-papyrus.com/agnostic/form)) | default
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/form](http://schemas.isis-papyrus.com/agnostic/form)) | form
+
+![](Screenshots/iPhone/AgnosticForm/form.png)
+
+---
+
+## Signature View
+
+###iOS classes: SignatureACMVC | SignatureACMDM
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([pack/item/collection](http://schemas.isis-papyrus.com/pack/item/collection)) | upload-signature
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack)([pack/item/collection](http://schemas.isis-papyrus.com/pack/item/collection)) | signature
+
+![](Screenshots/iPhone/PackItemCollection/signature.png)
+
+---
+
+#Web View / Document preview view
+
+###iOS classes: BaseWebVC | BaseWebVC
+
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/action](http://schemas.isis-papyrus.com/agnostic/action)) | viewer
+###[acm/execute/pack](http://schemas.isis-papyrus.com/acm/execute/pack) ([agnostic/action/collection](http://schemas.isis-papyrus.com/agnostic/action)) | preview
+
+Currently supports:
+text/plain, image/png, text/html, image/tiff, image/jpeg, image/gif, application/pdf.
+
+![](Screenshots/iPhone/AgnosticAction/viewer.png)
+
+---
+
+#Non ACM components
+
+
+##Form View
+
+###iOS classes: ObjectEditorVC | ObjectEditorDM
+
+###[agnostic/form](http://schemas.isis-papyrus.com/agnostic/form) | form
+
+![](Screenshots/iPhone/AgnosticForm/non-acm-form.png)
+
+---
+
+##Form With Image Header View
+
+###iOS classes: FormWithImageHeaderVC | FormWithImageHeaderDM
+
+###[pack/item](http://schemas.isis-papyrus.com/pack/item) | form-with-image-header
+
+![](Screenshots/iPhone/PackItem/form-with-image-header.png)
+
+
+---
+
+##Web Archive
+
+###iOS classes: WebArchiveSearchTBC | WebArchiveSearchDM
+
+###[pack/item](http://schemas.isis-papyrus.com/pack/item) | search
+
+###iOS classes: ObjectEditorVC | ObjectEditorDM
+
+###[pack/item](http://schemas.isis-papyrus.com/pack/item) | simple-search
+
+![](Screenshots/iPhone/PackItem/simple-search.png)
+
+###[pack/item](http://schemas.isis-papyrus.com/pack/item) | switch-search-mode
+
+![](Screenshots/iPhone/PackItem/switch-search-mode.png)
+
+---
+
+##Menu View
+
+###iOS classes: MenuVC | MenuDM
+
+###[pack/item](http://schemas.isis-papyrus.com/pack/item) | entrypoints
+
+![](Screenshots/iPhone/PackItem/entrypoints.png)
+
+---
+
+##Chart View
+
+###iOS classes: ChartVC | ChartDM
+
+###[agnostic/chart](http://schemas.isis-papyrus.com/agnostic/chart) | chart
+
+![](Screenshots/iPhone/AgnosticChart/AgnosticChart.png)
+![](Screenshots/iPhone/PackItem/case-statistics.png)
+
+---
+
+##Library Collection View
+
+###iOS classes: LibaryCollectionVC | LibaryCollectionDM
+
+###[agnostic/list/folder/collection](http://schemas.isis-papyrus.com/agnostic/list/folder/collection) | list
+###[agnostic/list/folder/collection](http://schemas.isis-papyrus.com/agnostic/list/folder/collection) | library
+
+![](Screenshots/iPhone/AgnosticListFolderCollection/library.png)
+
+
+---
+
+
+##Dashboard List View
+
+###iOS classes: DashboardListVC | DashboardListDM
+
+###[agnostic/list](http://schemas.isis-papyrus.com/agnostic/list) | list
+###[agnostic/list](http://schemas.isis-papyrus.com/agnostic/list) | list-with-header
+
+DEPRECATED as it comes from the first iteration of the API.
+
+![](Screenshots/iPhone/AgnosticList/AgnosticList.png)
+
+---
+
+##List With Header View
+
+###iOS classes: ListWithHearderVC | ListWithHeaderDM
+
+###[pack/item](http://schemas.isis-papyrus.com/pack/item) | list-with-header
+
+###[pack/item/collection](http://schemas.isis-papyrus.com/pack/item/collection) | list-with-header
+
+![](Screenshots/iPhone/PackItem/case-team.png)
+
+###[pack/item/collection](http://schemas.isis-papyrus.com/pack/item/collection) | tree-with-header
+
+![](Screenshots/iPhone/PackItemCollection/case-goals.png)
+
+---
+
+##Tasks List View
+
+###iOS classes: TaskListVC | TaskListDM
+
+###[pack/item/collection](http://schemas.isis-papyrus.com/pack/item/collection) | activity-details
+
+![](Screenshots/iPhone/PackItem/case-comments.png)
+![](Screenshots/iPhone/PackItem/case-content.png)
+![](Screenshots/iPhone/PackItemCollection/activity-details.png)
+
+---
+
+##Info Summary Menu View
+
+###iOS classes: InfoSummaryMenuVC | InfoSummaryMenuDM
+
+###[pack/item](http://schemas.isis-papyrus.com/pack/item) | info-summary
+
+###[pack/item/collection](http://schemas.isis-papyrus.com/pack/item/collection) | info-summary
+
+This rel is presented as an sliding menu in iPhone and a master-detail in iPad. It will select automatically the first cell to present that into the right pannel (iPhone) or detail view (iPad)
+
+####iPhone:
+![](Screenshots/iPhone/PackItem/info-summary.png)
+####iPad:
+![](Screenshots/iPad/PackItem/info-summary.png)
+
+---
+
+### Sessions List View
+
+###iOS classes: NewTalksListVC | NewTalksListDM
+
+###[pack/item](http://schemas.isis-papyrus.com/pack/item) | event
+
+![](Screenshots/iPhone/PackItem/event.png)
+
+---
+
+### Event List View
+
+###iOS classes: NewEventListVC | NewEventListDM
+
+###[pack/item/collection](http://schemas.isis-papyrus.com/pack/item/collection) | event-list
+
+This rel is represented as two views in iPhone and a master detail in iPad.
+
+####iPhone:
+| Screen 1 | Screen 2 |
+| ------ | ----- |
+|![](Screenshots/iPhone/PackItemCollection/event-list_1.png) |![](Screenshots/iPhone/PackItemCollection/event-list_2.png)|
+
+####iPad:
+![](Screenshots/iPad/PackItemCollection/event-list.png)
+
+---
+
+###Event Session View
+
+###iOS classes: EventSessionVC | EventSessionDM
+
+###[pack/item](http://schemas.isis-papyrus.com/pack/item) | event-session
+
+![](Screenshots/iPhone/PackItem/event-session.png)
+
+
+---
+
+#Web View / Document preview view
+
+###iOS classes: BaseWebVC | BaseWebVC
+
+###[agnostic/action](http://schemas.isis-papyrus.com/agnostic/action) | viewer
+###[agnostic/action/collection](http://schemas.isis-papyrus.com/agnostic/action) | preview
+
+Currently supports:
+text/plain, image/png, text/html, image/tiff, image/jpeg, image/gif, application/pdf.
+
+![](Screenshots/iPhone/AgnosticAction/viewer.png)
+
+
+
